@@ -44,3 +44,5 @@ def acabar():#Esta funcion acaba el juego si pones zzzz
         if acabar=="zzzz":
             print("El juego ha acabado")
         break
+
+"Aqui la prueba de que estan conectados"
