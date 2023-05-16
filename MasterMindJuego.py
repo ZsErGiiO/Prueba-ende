@@ -1,4 +1,4 @@
-from MasterMindFunciones import generar_codigo, limpiar_pantalla, comprobar, comprobar_repeticion, acabar
+from MasterMindFuncion import generar_codigo, limpiar_pantalla, comprobar, comprobar_repeticion, acabar
 
 
 
